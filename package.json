@@ -2,8 +2,7 @@
   "name": "mittaitheruvu",
   "version": "0.1.0",
   "private": true,
- "homepage": "https://ganesh1101.github.io/ManoArt",
-
+  "homepage": "https://ganesh1101.github.io/ManoArt",
   "dependencies": {
     "@react-navigation/stack": "^7.0.3",
     "@testing-library/jest-dom": "^5.17.0",

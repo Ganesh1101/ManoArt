@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ganesh1101/ManoArt/static/css/main.9ac33626.css",
+    "main.js": "/Ganesh1101/ManoArt/static/js/main.1e7682f1.js",
+    "static/js/453.713f81cb.chunk.js": "/Ganesh1101/ManoArt/static/js/453.713f81cb.chunk.js",
+    "static/media/Radha_Krishna2 (2).png": "/Ganesh1101/ManoArt/static/media/Radha_Krishna2 (2).c7d69850bfe8b53d07d5.png",
+    "static/media/pawan.jpg": "/Ganesh1101/ManoArt/static/media/pawan.69b4178836cd287a24c6.jpg",
+    "static/media/Hanuman.jpg": "/Ganesh1101/ManoArt/static/media/Hanuman.a2396ca1d00ebfe63122.jpg",
+    "static/media/Krishna.jpg": "/Ganesh1101/ManoArt/static/media/Krishna.da4347d6fb95034b3be9.jpg",
+    "static/media/Allu_Arjun.jpg": "/Ganesh1101/ManoArt/static/media/Allu_Arjun.35a21f2f6fe82cdec88e.jpg",
+    "static/media/DQ.jpg": "/Ganesh1101/ManoArt/static/media/DQ.dbb836968cb577487605.jpg",
+    "static/media/Sai_Pallavi.jpg": "/Ganesh1101/ManoArt/static/media/Sai_Pallavi.3ddd991d5cc0e9fa7b44.jpg",
+    "static/media/Nivetha_Thomus.jpg": "/Ganesh1101/ManoArt/static/media/Nivetha_Thomus.e60d2d893ddec277b0a9.jpg",
+    "static/media/SaiRam.jpg": "/Ganesh1101/ManoArt/static/media/SaiRam.09ef169087c7d41c041f.jpg",
+    "static/media/Radha_Krishna.jpg": "/Ganesh1101/ManoArt/static/media/Radha_Krishna.970b69880ced807c900f.jpg",
+    "static/media/Logo.png": "/Ganesh1101/ManoArt/static/media/Logo.8840080264f310346c25.png",
+    "static/media/slick.svg": "/Ganesh1101/ManoArt/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ganesh1101/ManoArt/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ganesh1101/ManoArt/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Ganesh1101/ManoArt/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Ganesh1101/ManoArt/index.html",
+    "main.9ac33626.css.map": "/Ganesh1101/ManoArt/static/css/main.9ac33626.css.map",
+    "main.1e7682f1.js.map": "/Ganesh1101/ManoArt/static/js/main.1e7682f1.js.map",
+    "453.713f81cb.chunk.js.map": "/Ganesh1101/ManoArt/static/js/453.713f81cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac33626.css",
+    "static/js/main.1e7682f1.js"
+  ]
+}

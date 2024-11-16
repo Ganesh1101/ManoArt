@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ManoArt/static/css/main.2ea6c49c.css",
-    "main.js": "/ManoArt/static/js/main.81d08130.js",
+    "main.js": "/ManoArt/static/js/main.d77ed9c1.js",
     "static/js/453.713f81cb.chunk.js": "/ManoArt/static/js/453.713f81cb.chunk.js",
     "static/media/Radha_Krishna2 (2).png": "/ManoArt/static/media/Radha_Krishna2 (2).c7d69850bfe8b53d07d5.png",
     "static/media/pawan.jpg": "/ManoArt/static/media/pawan.69b4178836cd287a24c6.jpg",
@@ -20,11 +20,11 @@
     "static/media/slick.woff": "/ManoArt/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ManoArt/index.html",
     "main.2ea6c49c.css.map": "/ManoArt/static/css/main.2ea6c49c.css.map",
-    "main.81d08130.js.map": "/ManoArt/static/js/main.81d08130.js.map",
+    "main.d77ed9c1.js.map": "/ManoArt/static/js/main.d77ed9c1.js.map",
     "453.713f81cb.chunk.js.map": "/ManoArt/static/js/453.713f81cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ea6c49c.css",
-    "static/js/main.81d08130.js"
+    "static/js/main.d77ed9c1.js"
   ]
 }

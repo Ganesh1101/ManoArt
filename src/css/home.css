@@ -1,0 +1,116 @@
+/* Home.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .home-container {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #f9d283;
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  .navbar {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #3c3c3c;
+    font-weight: bold;
+  }
+  
+  .login-cart {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .cart-button, .login-button {
+    background-color: #ffb84d;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffdf7e;
+    padding: 50px 0;
+    position: relative;
+  }
+  
+  .banner-content {
+    position: absolute;
+    z-index: 1;
+    color: #8f2e2e;
+    text-align: left;
+    left: 10%;
+  }
+  
+  .banner-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .explore-menu {
+    margin: 50px 0;
+    background-color: #fff;
+    padding: 30px 0;
+  }
+  
+  .explore-menu h3 {
+    margin-bottom: 30px;
+  }
+  
+  .menu-items {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .menu-item {
+    width: 150px;
+    text-align: center;
+  }
+  
+  .menu-item img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .menu-item p {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #3c3c3c;
+  }
+  
+  .view-all-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #f9d283;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  

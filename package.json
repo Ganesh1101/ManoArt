@@ -2,7 +2,7 @@
   "name": "mittaitheruvu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ganesh1101.github.io/ManoArts",
+ "homepage": "https://ganesh1101.github.io/ManoArt",
 
   "dependencies": {
     "@react-navigation/stack": "^7.0.3",
@@ -22,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
